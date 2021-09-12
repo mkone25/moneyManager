@@ -2,6 +2,12 @@
 <h1>About Money Manager</h1>
 <h2 id="intro">Introduction</h2>
 <h2 id="storyboard">Storyboard</h2>
+![page 1](https://user-images.githubusercontent.com/54559390/133005873-92865d29-3d9d-4d43-9ba9-3a010a965f0b.PNG)
+![page 2](https://user-images.githubusercontent.com/54559390/133005877-af6818b4-1d1a-478b-9b95-eba138b1476a.PNG)
+![page 3](https://user-images.githubusercontent.com/54559390/133005880-6cb14b80-0932-4aad-b268-587fe06e4ee9.PNG)
+![page 4](https://user-images.githubusercontent.com/54559390/133005886-fe7499f5-7f60-478d-aeb0-6393df08a589.PNG)
+![page 5](https://user-images.githubusercontent.com/54559390/133005892-e31560ce-810e-4970-87ff-94d0a1f7e09d.PNG)
+
 <h2 id="requirements">Functional Requirements</h2>
 <h3>Requirement 100.0: Store, View and Edit Income</h3>
 <h4>Scenario</h4>
